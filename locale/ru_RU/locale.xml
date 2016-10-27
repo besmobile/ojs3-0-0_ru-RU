@@ -269,43 +269,43 @@
 	 * LOG - This section contains entries related to log entries.
 	 *
 	-->
-	<message key="submission.event.general.defaultEvent">Submission event</message>
-	<message key="submission.event.submissionSubmitted">Article submitted</message>
-	<message key="submission.event.general.issueScheduled">Submission sent to issue scheduling queue</message>
-	<message key="submission.event.general.issueAssigned">Submission assigned to issue</message>
-	<message key="submission.event.general.articlePublished">Article published</message>
+	<message key="submission.event.general.defaultEvent">Событие статьи</message>
+	<message key="submission.event.submissionSubmitted">Статья отправлена</message>
+	<message key="submission.event.general.issueScheduled">Статья отправлена в выпуск</message>
+	<message key="submission.event.general.issueAssigned">Статья назначена в выпуск</message>
+	<message key="submission.event.general.articlePublished">Статья опубликована</message>
 
-	<message key="submission.event.author.authorRevision">Author revision submitted</message>
+	<message key="submission.event.author.authorRevision">Отправлены исправления автора</message>
 
-	<message key="submission.event.general.authorRevision">Author revision file updated</message>
+	<message key="submission.event.general.authorRevision">Исправленный файл автора обновлен</message>
 
-	<message key="submission.event.editor.editorAssigned">Editor assigned to submission</message>
-	<message key="submission.event.editor.editorUnassigned">Editor unassigned from submission</message>
-	<message key="submission.event.editor.editorDecision">Editor decision submitted</message>
-	<message key="submission.event.editor.editorFile">Editor file updated</message>
-	<message key="submission.event.editor.submissionArchived">Submission sent to archive</message>
-	<message key="submission.event.editor.submissionRestored">Submission restored from archive</message>
+	<message key="submission.event.editor.editorAssigned">Статье назначен редактор</message>
+	<message key="submission.event.editor.editorUnassigned">Назначение редактора для статьи отменено</message>
+	<message key="submission.event.editor.editorDecision">Отправлено решение редактора</message>
+	<message key="submission.event.editor.editorFile">Файл редактора обновлен</message>
+	<message key="submission.event.editor.submissionArchived">Статья отправлена в архив</message>
+	<message key="submission.event.editor.submissionRestored">Статья восстановлена из архива</message>
 
 
-	<message key="submission.event.copyedit.copyeditorAssigned">Copyeditor assigned to submission</message>
-	<message key="submission.event.copyedit.copyeditorUnassigned">Copyeditor unassigned from submission</message>
-	<message key="submission.event.copyedit.copyeditInitiated">Copyedit assignment initiated</message>
-	<message key="submission.event.copyedit.copyeditRevision">Copyeditor revisions file updated</message>
-	<message key="submission.event.copyedit.copyeditInitialCompleted">Initial copyedit completed</message>
-	<message key="submission.event.copyedit.copyeditFinalCompleted">Final copyedit completed</message>
-	<message key="submission.event.copyedit.copyeditSetFile">Copyedit file updated</message>
+	<message key="submission.event.copyedit.copyeditorAssigned">Статье назначен литературный редактор</message>
+	<message key="submission.event.copyedit.copyeditorUnassigned">Назначение литературного редактора для статьи отменено</message>
+	<message key="submission.event.copyedit.copyeditInitiated">Инициировано назначение литературного редактора</message>
+	<message key="submission.event.copyedit.copyeditRevision">Исправленный файл литературного редактора обновлен</message>
+	<message key="submission.event.copyedit.copyeditInitialCompleted">Начальное литературное редактирование выполнено</message>
+	<message key="submission.event.copyedit.copyeditFinalCompleted">Окончательное литературное редактирование выполнено</message>
+	<message key="submission.event.copyedit.copyeditSetFile">Файл литературного редактирования обновлен</message>
 
-	<message key="submission.event.proofread.proofreaderAssigned">Proofreader assigned to submission</message>
-	<message key="submission.event.proofread.proofreaderUnassigned">Proofreader unassigned from submission</message>
-	<message key="submission.event.proofread.proofreadInitiated">Proofread assignment initiated</message>
-	<message key="submission.event.proofread.proofreadRevision">Proofreader revisions file updated</message>
-	<message key="submission.event.proofread.proofreadCompleted">Proofread assignment completed</message>
+	<message key="submission.event.proofread.proofreaderAssigned">Статье назначен корректор</message>
+	<message key="submission.event.proofread.proofreaderUnassigned">Назначение корректора для статьи отменено</message>
+	<message key="submission.event.proofread.proofreadInitiated">Инициировано назначение корректора</message>
+	<message key="submission.event.proofread.proofreadRevision">Исправленный файл корректора обновлен</message>
+	<message key="submission.event.proofread.proofreadCompleted">Корректура выполнена</message>
 
-	<message key="submission.event.layout.layoutEditorAssigned">Layout editor assigned to submission</message>
-	<message key="submission.event.layout.layoutEditorUnassigned">Layout editor unassigned from submission</message>
-	<message key="submission.event.layout.layoutInitiated">Layout assignment initiated</message>
-	<message key="submission.event.layout.layoutGalleyCreated">Layout galley updated</message>
-	<message key="submission.event.layout.layoutComplete">Layout assignment completed</message>
+	<message key="submission.event.layout.layoutEditorAssigned">Статье назначен верстальщик</message>
+	<message key="submission.event.layout.layoutEditorUnassigned">Назначение верстальщика для статьи отменено</message>
+	<message key="submission.event.layout.layoutInitiated">Инициировано назначение верстальщика</message>
+	<message key="submission.event.layout.layoutGalleyCreated">Гранки обновлены</message>
+	<message key="submission.event.layout.layoutComplete">Верстка выполнена</message>
 	<!--
 	 *
 	 * INTERFACE - Contains phrases organized by the section of the

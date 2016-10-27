@@ -314,29 +314,29 @@
 	-->
 
 	<!-- Reader article view -->
-	<message key="reader.subscribersOnly">Subscribers Only</message>
-	<message key="reader.subscriptionRequiredLoginText">Subscription required to access item. To verify subscription, log in to journal.</message>
-	<message key="reader.openAccess">Open Access</message>
-	<message key="reader.subscriptionAccess">Requires Subscription</message>
-	<message key="reader.subscriptionOrFeeAccess">Requires Subscription or Fee</message>
+	<message key="reader.subscribersOnly">Только для подписчиков</message>
+	<message key="reader.subscriptionRequiredLoginText">Для доступа требуется подписка. Войдите за сайт со своим логином.</message>
+	<message key="reader.openAccess">Открытый доступ</message>
+	<message key="reader.subscriptionAccess">Требует подписки</message>
+	<message key="reader.subscriptionOrFeeAccess">Требует подписки или платежа</message>
 
 	<!-- Reader Comments -->
-	<message key="comments.commentsOnArticle">Comments on this article</message>
+	<message key="comments.commentsOnArticle">Комментарии к этой статье</message>
 	<message key="comments.authenticated"><![CDATA[by <a href="{$publicProfileUrl}" target="_parent">{$userName}</a>]]></message>
 
 	<!-- Search -->
-	<message key="search.results.orderBy">Order results by</message>
-	<message key="search.results.orderBy.article">Article Title</message>
-	<message key="search.results.orderBy.author">Author</message>
-	<message key="search.results.orderBy.date">Publication Date</message>
-	<message key="search.results.orderBy.issue">Issue</message>
-	<message key="search.results.orderBy.journal">Journal Title</message>
-	<message key="search.results.orderBy.popularityAll">Popularity (All Time)</message>
-	<message key="search.results.orderBy.popularityMonth">Popularity (Last Month)</message>
-	<message key="search.results.orderBy.relevance">Relevance</message>
-	<message key="search.results.orderDir.asc">Ascending</message>
-	<message key="search.results.orderDir.desc">Descending</message>
-	<message key="search.results.similarDocuments">similar documents</message>
+	<message key="search.results.orderBy">Упорядочить результаты по</message>
+	<message key="search.results.orderBy.article">Названию статьи</message>
+	<message key="search.results.orderBy.author">Автору</message>
+	<message key="search.results.orderBy.date">Дате публикации</message>
+	<message key="search.results.orderBy.issue">Выпуску</message>
+	<message key="search.results.orderBy.journal">Названию журнала</message>
+	<message key="search.results.orderBy.popularityAll">Популярности (за весь период)</message>
+	<message key="search.results.orderBy.popularityMonth">Популярности (за последний месяц)</message>
+	<message key="search.results.orderBy.relevance">Релевантность</message>
+	<message key="search.results.orderDir.asc">По возрастанию</message>
+	<message key="search.results.orderDir.desc">По убыванию</message>
+	<message key="search.results.similarDocuments">похожие документы</message>
 
 	<!-- Site Administration -->
 	<message key="admin.settings.oaiRegistrationDescription"><![CDATA[To have the contents of all journals hosted on this site indexed within a globally distributed system of research databases, <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">register</a> your site's URL with the Public Knowledge Project metadata <a href="http://pkp.sfu.ca/harvester/" target="_blank">harvester</a>. This tool collects the metadata from each indexed item in this journal, enabling accurate and collective searching among the research sites that adhere to the <a href="http://www.openarchives.org/OAI/openarchivesprotocol.htm#Introduction" target="_blank">Open Archives Initiative Protocol for Metadata Harvesting</a>.
@@ -358,10 +358,10 @@ Note that the OAI interface can be disabled for this site by editing the OJS sys
 	<!-- Site Administrator Merge Users -->
 
 	<!-- Subscription Management -->
-	<message key="subscriptionManager.subscriptionManagement">Subscription Management</message>
-	<message key="subscriptionManager.individualSubscriptions">Individual Subscriptions</message>
-	<message key="subscriptionManager.institutionalSubscriptions">Institutional Subscriptions</message>
-	<message key="subscriptionManager.subscriptionTypes">Subscription Types</message>
+	<message key="subscriptionManager.subscriptionManagement">Управление подписками</message>
+	<message key="subscriptionManager.individualSubscriptions">Индивидуальные подписки</message>
+	<message key="subscriptionManager.institutionalSubscriptions">Коллективные подписки</message>
+	<message key="subscriptionManager.subscriptionTypes">Типы подписок</message>
 
 	<!-- Journal Management -->
 
@@ -653,13 +653,13 @@ Active is how many reviews are currently being considered or underway.]]></messa
 
 	<!-- Submission History -->
 
-	<message key="submission.logType.article">Article</message>
-	<message key="submission.logType.author">Author</message>
-	<message key="submission.logType.editor">Editor</message>
-	<message key="submission.logType.review">Review</message>
-	<message key="submission.logType.copyedit">Copyedit</message>
-	<message key="submission.logType.layout">Layout</message>
-	<message key="submission.logType.proofread">Proofread</message>
+	<message key="submission.logType.article">Статья</message>
+	<message key="submission.logType.author">Автор</message>
+	<message key="submission.logType.editor">Редактор</message>
+	<message key="submission.logType.review">Рецензия</message>
+	<message key="submission.logType.copyedit">Литературное редактирование</message>
+	<message key="submission.logType.layout">Верстка</message>
+	<message key="submission.logType.proofread">Корректура</message>
 
 	<!-- Submission Event Log -->
 

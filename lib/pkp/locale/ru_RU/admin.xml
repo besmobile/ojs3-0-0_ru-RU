@@ -11,16 +11,16 @@
   * Localization strings.
   -->
 
-<locale name="en_US" full_name="U.S. English">
-	<message key="admin.systemInfo.settingName">Setting Name</message>
-	<message key="admin.systemInfo.settingValue">Setting Value</message>
-	<message key="admin.adminFunctions">Administrative Functions</message>
-	<message key="admin.auth.confirmDelete">Are you sure you want to permanently delete this authentication source?</message>
-	<message key="admin.auth.create">Create authentication source</message>
-	<message key="admin.auth.noneCreated">No authentication sources have been defined.</message>
-	<message key="admin.authSources">Authentication Sources</message>
-	<message key="admin.clearDataCache">Clear Data Caches</message>
-	<message key="admin.clearTemplateCache">Clear Template Cache</message>
+<locale name="en_US" full_name="Русский">
+	<message key="admin.systemInfo.settingName">Имя настройки</message>
+	<message key="admin.systemInfo.settingValue">Значение настройки</message>
+	<message key="admin.adminFunctions">Административные функции</message>
+	<message key="admin.auth.confirmDelete">Уверены, что хотите навсегда удалить этот источник аутентификации?</message>
+	<message key="admin.auth.create">Создать источник аутентификации</message>
+	<message key="admin.auth.noneCreated">Не определено ни одного источника аутентификации.</message>
+	<message key="admin.authSources">Источники аутентификации</message>
+	<message key="admin.clearDataCache">Очистить кэши данных</message>
+	<message key="admin.clearTemplateCache">Очистить кэш шаблонов</message>
 	<message key="admin.configFileUpdatedInstructions"><![CDATA[Your configuration file has been successfully updated. Please note that if your site no longer functions correctly you may need to manually fix your configuration by editing <tt>config.inc.php</tt> directly.]]></message>
 	<message key="admin.confirmClearTemplateCache">Are you sure you want to clear the cache of compiled templates?</message>
 	<message key="admin.confirmExpireSessions">Are you sure you want to expire all user sessions? All users who are currently logged into the system will be forced to log in again (yourself included).</message>

@@ -191,78 +191,78 @@
 	<message key="journal.viewAllIssues">Смотреть все выпуски</message>
 
 	<!-- User -->
-	<message key="user.noRoles.selectUsersWithoutRoles">Include users with no roles in this journal.</message>
-	<message key="user.profile.profileImage">Profile Image</message>
-	<message key="user.showAllJournals">Show My Journals</message>
-	<message key="user.registerForOtherJournals">Register for Other Journals</message>
-	<message key="user.reviewerPrompt">Would you be willing to review submissions to this journal?</message>
-	<message key="user.reviewerPrompt.userGroup">Yes, request the {$userGroup} role.</message>
-	<message key="user.register.contextsPrompt">Which journals on this site would you like to register with?</message>
-	<message key="user.register.otherContextRoles">Request the following roles.</message>
-	<message key="user.register.noContextReviewerInterests">If you requested to be a reviewer on any journal, please enter your subject interests.</message>
-	<message key="user.myJournals">My Journals</message>
-	<message key="user.manageMySubscriptions">Manage My Subscriptions</message>
-	<message key="user.noRoles.chooseJournal">Your account is not currently associated with any journals. Please choose a journal:</message>
-	<message key="user.noRoles.noRolesForJournal">Your account does not currently have any roles for this journal. Please choose from the actions below:</message>
-	<message key="user.noRoles.submitArticle">Submit a Proposal</message>
-	<message key="user.noRoles.submitArticleRegClosed">Submit an Article: Author registration is currently disabled.</message>
-	<message key="user.noRoles.regReviewer">Register as a Reviewer</message>
-	<message key="user.noRoles.regReviewerClosed">Register as a Reviewer: Reviewer registration is currently disabled.</message>
+	<message key="user.noRoles.selectUsersWithoutRoles">Включить пользователей без роли в журнал.</message>
+	<message key="user.profile.profileImage">Изображение профиля</message>
+	<message key="user.showAllJournals">Показать мои журналы</message>
+	<message key="user.registerForOtherJournals">Зарегистрироваться в другом журнале</message>
+	<message key="user.reviewerPrompt">Не хотели бы вы рецензировать статьи в этом журнале?</message>
+	<message key="user.reviewerPrompt.userGroup">Да, запросить роль {$userGroup}.</message>
+	<message key="user.register.contextsPrompt">В каком из журналов на этом сайте вы хотите зарегистрироваться?</message>
+	<message key="user.register.otherContextRoles">Запросить следующие роли.</message>
+	<message key="user.register.noContextReviewerInterests">Если вы запросили роль рецензента в журнале, укажите сферу своих интересов.</message>
+	<message key="user.myJournals">Мои журналы</message>
+	<message key="user.manageMySubscriptions">Управлять моими подписками</message>
+	<message key="user.noRoles.chooseJournal">Ваша учетная запись не связана ни с одним журналом. Выберите журнал:</message>
+	<message key="user.noRoles.noRolesForJournal">Ваша учетная запись не имеет ни одной роли в этом журнале. Выберите роли из списка:</message>
+	<message key="user.noRoles.submitArticle">Отправить предложение</message>
+	<message key="user.noRoles.submitArticleRegClosed">Отправка статей: регистрация авторов в данный момент отключена.</message>
+	<message key="user.noRoles.regReviewer">Зарегистрироваться в роли рецензента</message>
+	<message key="user.noRoles.regReviewerClosed">Регистрация в роли рецензента: регистрация рецензентов в данный момент отключена.</message>
 
 	<!-- Roles -->
-	<message key="user.role.manager">Journal Manager</message>
-	<message key="user.role.sectionEditor">Section Editor</message>
-	<message key="user.role.subscriptionManager">Subscription Manager</message>
-	<message key="user.role.managers">Journal Managers</message>
-	<message key="user.role.subEditors">Section Editors</message>
-	<message key="user.role.subscriptionManagers">Subscription Managers</message>
-	<message key="user.role.journalAssistant">Journal Assistant</message>
-	<message key="user.role.journalAssistants">Journal Assistants</message>
-	<message key="user.role.guestEditor">Guest Editor</message>
-	<message key="user.role.guestEditors">Guest Editors</message>
+	<message key="user.role.manager">Управляющий журналом</message>
+	<message key="user.role.sectionEditor">Редактор раздела</message>
+	<message key="user.role.subscriptionManager">Управляющий подпиской</message>
+	<message key="user.role.managers">Управляющие журналом</message>
+	<message key="user.role.subEditors">Редакторы разделов</message>
+	<message key="user.role.subscriptionManagers">Управляющие подпиской</message>
+	<message key="user.role.journalAssistant">Ассистент журнала</message>
+	<message key="user.role.journalAssistants">Ассистенты журнала</message>
+	<message key="user.role.guestEditor">Приглашенный редактор</message>
+	<message key="user.role.guestEditors">Приглашенные редакторы</message>
 
 	<!-- Common Issue Terms -->
-	<message key="issue.issue">Issue</message>
-	<message key="issue.issues">Issues</message>
-	<message key="issue.title">Title</message>
-	<message key="issue.volume">Volume</message>
-	<message key="issue.number">Number</message>
-	<message key="issue.vol">Vol</message>
-	<message key="issue.no">No</message>
-	<message key="issue.year">Year</message>
-	<message key="issue.noIssues">No Issues</message>
-	<message key="issue.toc">Table of Contents</message>
-	<message key="issue.abstract">Abstract</message>
-	<message key="issue.coverPage.altText">Cover Page</message>
-	<message key="issue.fullIssue">Full Issue</message>
-	<message key="issue.nonpdf.title">Issue Download</message>
-	<message key="issue.viewIssue">View Issue</message>
-	<message key="issue.return">Return to Issue Details</message>
+	<message key="issue.issue">Выпуск</message>
+	<message key="issue.issues">Выпуски</message>
+	<message key="issue.title">Название</message>
+	<message key="issue.volume">Том</message>
+	<message key="issue.number">Номер</message>
+	<message key="issue.vol">Т.</message>
+	<message key="issue.no">№</message>
+	<message key="issue.year">Год</message>
+	<message key="issue.noIssues">Нет выпусков</message>
+	<message key="issue.toc">Оглавление</message>
+	<message key="issue.abstract">Аннотация</message>
+	<message key="issue.coverPage.altText">Обложка</message>
+	<message key="issue.fullIssue">Полный выпуск</message>
+	<message key="issue.nonpdf.title">Скачать выпуск</message>
+	<message key="issue.viewIssue">Смотреть выпуск</message>
+	<message key="issue.return">Вернуться к деталям выпуска</message>
 
 	<!-- Common Subscription Type Terms -->
-	<message key="subscriptionTypes.currency">Currency</message>
-	<message key="subscriptionTypes.year">year</message>
-	<message key="subscriptionTypes.years">years</message>
-	<message key="subscriptionTypes.month">month</message>
-	<message key="subscriptionTypes.months">months</message>
-	<message key="subscriptionTypes.nonExpiring">Non-expiring</message>
-	<message key="subscriptionTypes.format">Format</message>
-	<message key="subscriptionTypes.format.online">Online</message>
-	<message key="subscriptionTypes.format.print">Print</message>
-	<message key="subscriptionTypes.format.printOnline">Print and Online</message>
+	<message key="subscriptionTypes.currency">Валюта</message>
+	<message key="subscriptionTypes.year">год</message>
+	<message key="subscriptionTypes.years">годы</message>
+	<message key="subscriptionTypes.month">месяц</message>
+	<message key="subscriptionTypes.months">месяцы</message>
+	<message key="subscriptionTypes.nonExpiring">Без срока истечения</message>
+	<message key="subscriptionTypes.format">Формат</message>
+	<message key="subscriptionTypes.format.online">Онлайн</message>
+	<message key="subscriptionTypes.format.print">Печатная</message>
+	<message key="subscriptionTypes.format.printOnline">Печатная и онлайн</message>
 
 	<!-- Common Subscription Terms -->
-	<message key="subscriptions.inactive">Inactive</message>
-	<message key="subscriptions.status">Status</message>
-	<message key="subscriptions.status.active">Active</message>
-	<message key="subscriptions.status.needsInformation">Needs Information</message>
-	<message key="subscriptions.status.needsApproval">Needs Approval</message>
-	<message key="subscriptions.status.awaitingManualPayment">Awaiting Manual Payment</message>
-	<message key="subscriptions.status.awaitingOnlinePayment">Awaiting Online Payment</message>
-	<message key="subscriptions.status.other">Other, See Notes</message>
-	<message key="subscriptions.individualDescription">Individual subscriptions require login to access subscription content.</message>
-	<message key="subscriptions.institutionalDescription">Institutional subscriptions do not require login. The user's domain and/or IP address is used to provide access to subscription content.</message>
-	<message key="subscriptions.institutionalOnlinePaymentDescription"><![CDATA[<strong>Note:</strong> Institutional subscriptions purchased online require approval of the domain and IP ranges before the subscription is activated.]]></message>
+	<message key="subscriptions.inactive">Не активная</message>
+	<message key="subscriptions.status">Статус</message>
+	<message key="subscriptions.status.active">Активная</message>
+	<message key="subscriptions.status.needsInformation">Необходима информация</message>
+	<message key="subscriptions.status.needsApproval">Необходимо подтверждение</message>
+	<message key="subscriptions.status.awaitingManualPayment">Ожидание оффлайн-платежа</message>
+	<message key="subscriptions.status.awaitingOnlinePayment">Ожидание онлайн-платежа</message>
+	<message key="subscriptions.status.other">Другое, см. примечания</message>
+	<message key="subscriptions.individualDescription">Для доступа к материалам подписки индивидуальным подписчикам требуется логин.</message>
+	<message key="subscriptions.institutionalDescription">Для коллективной подписки не требуется логин. Для получения доступа к материалам подписки требуется домен или IP подписчика.</message>
+	<message key="subscriptions.institutionalOnlinePaymentDescription"><![CDATA[<strong>Внимание:</strong> Для активации подписки коллективный подписчик должен предоставить имя домена или IP (диапазон IP).]]></message>
 
 	<!--
 	 *

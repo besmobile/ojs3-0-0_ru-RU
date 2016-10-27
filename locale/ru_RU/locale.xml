@@ -11,7 +11,7 @@
   * Localization strings.
   -->
 
-<locale name="en_US" full_name="U.S. English">
+<locale name="en_US" full_name="Русский">
 	<!--
 	 * This file is organized into several major sections, separated
 	 * by comments like this one. These sections are called:
@@ -26,17 +26,17 @@
 	-->
 
 	<!-- common -->
-	<message key="context.current">Current Journal:</message>
-	<message key="context.select">Switch to another journal:</message>
+	<message key="context.current">Текущий журнал:</message>
+	<message key="context.select">Переключиться в другой журнал:</message>
 
 	<!-- Categories -->
-	<message key="navigation.categories">Categories</message>
-	<message key="navigation.categories.browse">Browse</message>
+	<message key="navigation.categories">Категории</message>
+	<message key="navigation.categories.browse">Просмотр</message>
 
 
 
-	<message key="reviewer.article.enterReviewForm">Click on icon to fill in the review form.</message>
-	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Please fill in required fields.</message>
+	<message key="reviewer.article.enterReviewForm">Щелкните иконку для заполнения формы рецензента.</message>
+	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Заполните необходимые поля.</message>
 
 	<!-- review forms end -->
 
@@ -48,11 +48,11 @@
 
 	<!-- Common Messages -->
 	<message key="common.openJournalSystems">Open Journal Systems</message>
-	<message key="common.confirmComplete">Are you sure you wish to mark this task as completed? You may not be able to make changes afterwards.</message>
-	<message key="common.payment">Payment</message>
-	<message key="common.payments">Payments</message>
-	<message key="common.homePageHeader.altText">Homepage Header</message>
-	<message key="common.journalHomepageImage.altText">Journal Homepage Image</message>
+	<message key="common.confirmComplete">Уверены, что хотите пометить эту задачу выполненной? У вас не будет возможности отменить это действие.</message>
+	<message key="common.payment">Платеж</message>
+	<message key="common.payments">Платежи</message>
+	<message key="common.homePageHeader.altText">Заголовок домашней страницы</message>
+	<message key="common.journalHomepageImage.altText">Изображение на домашней странице журнала</message>
 
 	<!-- Common Form Messages -->
 
@@ -63,30 +63,30 @@
 	<!-- Common Error Messages -->
 
 	<!-- Navigation -->
-	<message key="navigation.journalHelp">Journal Help</message>
-	<message key="navigation.current">Current</message>
-	<message key="navigation.otherJournals">Other Journals</message>
-	<message key="navigation.browseByIssue">By Issue</message>
-	<message key="navigation.browseByAuthor">By Author</message>
-	<message key="navigation.infoForAuthors">For Authors</message>
-	<message key="navigation.infoForLibrarians">For Librarians</message>
-	<message key="navigation.competingInterestGuidelines">Competing Interest Guidelines</message>
-	<message key="navigation.infoForAuthors.long">Information For Authors</message>
-	<message key="navigation.infoForLibrarians.long">Information For Librarians</message>
+	<message key="navigation.journalHelp">Помощь</message>
+	<message key="navigation.current">Текущий</message>
+	<message key="navigation.otherJournals">Другие журналы</message>
+	<message key="navigation.browseByIssue">По выпускам</message>
+	<message key="navigation.browseByAuthor">По авторам</message>
+	<message key="navigation.infoForAuthors">Для авторов</message>
+	<message key="navigation.infoForLibrarians">Бля библиотек</message>
+	<message key="navigation.competingInterestGuidelines">Руководство по конфликтам интересов</message>
+	<message key="navigation.infoForAuthors.long">Информация для авторов</message>
+	<message key="navigation.infoForLibrarians.long">Информация для библиотек</message>
 
 	<!-- Article Queues -->
-	<message key="common.queue.long.submissionsUnassigned">Unassigned</message>
-	<message key="common.queue.short.submissionsUnassigned">Unassigned</message>
-	<message key="common.queue.long.submissionsInEditing">Submissions in Editing</message>
-	<message key="common.queue.short.submissionsInEditing">In Editing</message>
-	<message key="common.queue.long.submissionsInReview">Submissions in Review</message>
-	<message key="common.queue.short.submissionsInReview">In Review</message>
-	<message key="common.queue.long.submissionsArchives">Archives</message>
-	<message key="common.queue.short.submissionsArchives">Archives</message>
-	<message key="common.queue.long.active">Active</message>
-	<message key="common.queue.short.active">Active</message>
-	<message key="common.queue.long.completed">Archive</message>
-	<message key="common.queue.short.completed">Archive</message>
+	<message key="common.queue.long.submissionsUnassigned">Не назначено</message>
+	<message key="common.queue.short.submissionsUnassigned">Не назначено</message>
+	<message key="common.queue.long.submissionsInEditing">Статьи в редактировании</message>
+	<message key="common.queue.short.submissionsInEditing">В редактировании</message>
+	<message key="common.queue.long.submissionsInReview">Статьи в рецензировании</message>
+	<message key="common.queue.short.submissionsInReview">В рецензировании</message>
+	<message key="common.queue.long.submissionsArchives">Архивы</message>
+	<message key="common.queue.short.submissionsArchives">Архивы</message>
+	<message key="common.queue.long.active">Активно</message>
+	<message key="common.queue.short.active">Активно</message>
+	<message key="common.queue.long.completed">Архив</message>
+	<message key="common.queue.short.completed">Архив</message>
 
 	<!--
 	 *
@@ -96,99 +96,99 @@
 	-->
 
 	<!-- Common Section Terms -->
-	<message key="section.section">Section</message>
-	<message key="section.sections">Sections</message>
-	<message key="section.title">Section title</message>
-	<message key="section.abbreviation">Abbreviation</message>
-	<message key="section.abbreviation.example">(For example, Articles=ART)</message>
+	<message key="section.section">Раздел</message>
+	<message key="section.sections">Разделы</message>
+	<message key="section.title">Название раздела</message>
+	<message key="section.abbreviation">Аббревиатура</message>
+	<message key="section.abbreviation.example">(Например, Статьи=СТ)</message>
 
 	<!-- Common Article Terms -->
-	<message key="article.article">Article</message>
-	<message key="article.articles">Articles</message>
-	<message key="article.submissionId">Submission ID</message>
-	<message key="article.title">Title</message>
-	<message key="article.authors">Authors</message>
-	<message key="article.indexingInformation">Indexing Information</message>
-	<message key="article.metadata">Metadata</message>
-	<message key="article.journalSection">Journal Section</message>
-	<message key="article.file">File</message>
-	<message key="article.suppFile">Supplementary File</message>
-	<message key="article.suppFiles">Supplementary File(s)</message>
-	<message key="article.suppFilesAbbrev">Supp. files</message>
-	<message key="article.discipline">Academic discipline and sub-disciplines</message>
-	<message key="article.subject">Keywords</message>
-	<message key="article.coverage">Coverage</message>
-	<message key="article.type">Type, method or approach</message>
-	<message key="article.language">Language</message>
-	<message key="article.sectionEditor">SE</message>
-	<message key="article.commentsToEditor">Author comments</message>
-	<message key="article.submission">Submission</message>
-	<message key="article.submissions">Submissions</message>
-	<message key="article.details">Details</message>
-	<message key="article.abstract">Abstract</message>
-	<message key="article.coverPage.altText">Cover Image</message>
-	<message key="article.accessLogoOpen.altText">Open Access</message>
-	<message key="article.accessLogoRestricted.altText">Restricted Access</message>
-	<message key="article.comments.sectionDefault">Default</message>
-	<message key="article.comments.disable">Disable</message>
-	<message key="article.comments.enable">Enable</message>
-	<message key="article.fontSize">Font Size</message>
-	<message key="article.fontSize.small.altText">Small</message>
-	<message key="article.fontSize.medium.altText">Medium</message>
-	<message key="article.fontSize.large.altText">Large</message>
-	<message key="article.return">Return to Article Details</message>
+	<message key="article.article">Статья</message>
+	<message key="article.articles">Статьи</message>
+	<message key="article.submissionId">ID статьи</message>
+	<message key="article.title">Название</message>
+	<message key="article.authors">Авторы</message>
+	<message key="article.indexingInformation">Информация для индексирования</message>
+	<message key="article.metadata">Метаданные</message>
+	<message key="article.journalSection">Раздел журнала</message>
+	<message key="article.file">Файл</message>
+	<message key="article.suppFile">Дополнительный файл</message>
+	<message key="article.suppFiles">Дополнительный файл (файлы)</message>
+	<message key="article.suppFilesAbbrev">Доп. файлы</message>
+	<message key="article.discipline">Академическая дисциплина и субдисциплины</message>
+	<message key="article.subject">Ключевые слова</message>
+	<message key="article.coverage">Охват</message>
+	<message key="article.type">Тип, метод</message>
+	<message key="article.language">Язык</message>
+	<message key="article.sectionEditor">РР</message>
+	<message key="article.commentsToEditor">Комментарии автора</message>
+	<message key="article.submission">Статья</message>
+	<message key="article.submissions">Статьи</message>
+	<message key="article.details">Детали</message>
+	<message key="article.abstract">Аннотация</message>
+	<message key="article.coverPage.altText">Изображение обложки</message>
+	<message key="article.accessLogoOpen.altText">Открытый доступ</message>
+	<message key="article.accessLogoRestricted.altText">Ограниченный доступ</message>
+	<message key="article.comments.sectionDefault">По умолчанию</message>
+	<message key="article.comments.disable">Отключить</message>
+	<message key="article.comments.enable">Включить</message>
+	<message key="article.fontSize">Размер шрифта</message>
+	<message key="article.fontSize.small.altText">Маленький</message>
+	<message key="article.fontSize.medium.altText">Средний</message>
+	<message key="article.fontSize.large.altText">Большой</message>
+	<message key="article.return">Вернуться к деталям статьи</message>
 
 	<!-- Submission Tracking - Common -->
-	<message key="submission.submissionEditing">Submission Editing</message>
-	<message key="submission.changeSection">Change to</message>
-	<message key="submission.sent">Sent</message>
-	<message key="submission.editorDecision">Editor Decision</message>
-	<message key="submission.round">Round&amp;nbsp;{$round}</message>
-	<message key="submission.editorReview">Editor Review</message>
-	<message key="submission.notifyAuthor">Notify Author</message>
-	<message key="submission.notifyEditor">Notify Editor</message>
-	<message key="submission.editorAuthorRecord">Editor/Author Email Record</message>
-	<message key="submission.reviewersVersion">Reviewer's annotated version of file</message>
-	<message key="submission.postReviewVersion">Post-review version of file</message>
-	<message key="submission.editorVersion">Editor Version</message>
-	<message key="submission.authorsRevisedVersion">Author's revised version of file</message>
-	<message key="submission.authorVersion">Author Version</message>
-	<message key="submission.copyediting">Copyediting</message>
-	<message key="submission.copyedit">Copyedit</message>
-	<message key="submission.proofreading">Proofreading</message>
-	<message key="submission.scheduling">Scheduling</message>
-	<message key="submission.scheduledIn">Scheduled for publication in {$issueName}.</message>
+	<message key="submission.submissionEditing">Редактирование статьи</message>
+	<message key="submission.changeSection">Изменить на</message>
+	<message key="submission.sent">Послать</message>
+	<message key="submission.editorDecision">Решение редактора</message>
+	<message key="submission.round">Этап&nbsp;{$round}</message>
+	<message key="submission.editorReview">Рецензия редактора</message>
+	<message key="submission.notifyAuthor">Уведомить автора</message>
+	<message key="submission.notifyEditor">Уведомить редактора</message>
+	<message key="submission.editorAuthorRecord">Запись переписки редактора/автора</message>
+	<message key="submission.reviewersVersion">Аннотированная версия файла рецензента</message>
+	<message key="submission.postReviewVersion">Пострецензионная версия файла</message>
+	<message key="submission.editorVersion">Версия редактора</message>
+	<message key="submission.authorsRevisedVersion">Версия файла, исправленная автором</message>
+	<message key="submission.authorVersion">Версия автора</message>
+	<message key="submission.copyediting">Литературное редактирование</message>
+	<message key="submission.copyedit">Литературное редактирование</message>
+	<message key="submission.proofreading">Корректура</message>
+	<message key="submission.scheduling">Планирование</message>
+	<message key="submission.scheduledIn">Запланировано для публикации в {$issueName}.</message>
 	<message key="submission.scheduledIn.tba">(TBA)</message>
-	<message key="submissions.sec">Sec</message>
-	<message key="submissions.step1">Step 1</message>
-	<message key="submissions.step3">Step 3</message>
-	<message key="submissions.queuedReview">In Review</message>
-	<message key="submissions.scheduled">Scheduled</message>
-	<message key="submissions.published">Published</message>
-	<message key="submissions.initial">Initial</message>
-	<message key="submissions.proofread">Proofread</message>
-	<message key="submissions.initialProof">Initial Proof</message>
-	<message key="submissions.postAuthor">Post-Author</message>
-	<message key="submissions.reviewRound">Review Round</message>
-	<message key="submissions.proof">Proof</message>
-	<message key="submissions.editorDecision">Editor Decision</message>
-	<message key="submissions.editorRuling">Editor Ruling</message>
-	<message key="submission.eventLog">Event Log</message>
+	<message key="submissions.sec">Раздел</message>
+	<message key="submissions.step1">Шаг 1</message>
+	<message key="submissions.step3">Шаг 3</message>
+	<message key="submissions.queuedReview">На рецензировании</message>
+	<message key="submissions.scheduled">Запланировано</message>
+	<message key="submissions.published">Опубликовано</message>
+	<message key="submissions.initial">Начало</message>
+	<message key="submissions.proofread">Корректура</message>
+	<message key="submissions.initialProof">Начальная корректура</message>
+	<message key="submissions.postAuthor">После автора</message>
+	<message key="submissions.reviewRound">Этап рецензирования</message>
+	<message key="submissions.proof">Корректура</message>
+	<message key="submissions.editorDecision">Решение редактора</message>
+	<message key="submissions.editorRuling">Управление редактора</message>
+	<message key="submission.eventLog">Лог событий</message>
 
 	<!-- Submission list search engine -->
-	<message key="submissions.copyeditComplete">Copyedited</message>
-	<message key="submissions.layoutComplete">Layout edited</message>
-	<message key="submissions.proofreadingComplete">Proofread</message>
+	<message key="submissions.copyeditComplete">Дитературное редактирование</message>
+	<message key="submissions.layoutComplete">Редактирование верстки</message>
+	<message key="submissions.proofreadingComplete">Корректура</message>
 
 	<!-- Submission Notes -->
 
 	<!-- Common Journal Terms -->
-	<message key="journal.currentIssue">Current Issue</message>
-	<message key="journal.journals">Journals</message>
-	<message key="journal.path">Path</message>
-	<message key="context.context">Journal</message>
+	<message key="journal.currentIssue">Текущий выпуск</message>
+	<message key="journal.journals">Журналы</message>
+	<message key="journal.path">Путь</message>
+	<message key="context.context">Журнал</message>
 	<message key="journal.issn">ISSN</message>
-	<message key="journal.viewAllIssues">View All Issues</message>
+	<message key="journal.viewAllIssues">Смотреть все выпуски</message>
 
 	<!-- User -->
 	<message key="user.noRoles.selectUsersWithoutRoles">Include users with no roles in this journal.</message>
